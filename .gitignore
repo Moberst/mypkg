@@ -1,0 +1,10 @@
+# Ignore rope refactoring info
+*.ropeproject/*
+
+# Ignore cache and pytest outputs
+.cache/*
+.eggs/*
+*.egg-info/*
+
+# Ignore python caches
+*.pyc
