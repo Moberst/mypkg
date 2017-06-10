@@ -1,5 +1,5 @@
 # Ignore rope refactoring info
-*.ropeproject/*
+*.ropeproject*
 
 # Ignore cache and pytest outputs
 .cache/*
